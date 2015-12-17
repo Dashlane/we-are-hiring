@@ -1,7 +1,11 @@
 Dashlane Jobs
 =============
 
-Dashlane is a rapidly growing venture backed start-up (Series B) based in NYC and Paris. With over 3.5 million customers in 130 countries, we are the leading password manager and digital wallet. We make identity and payment simple and secure everywhere. Next year we will enable $8B in commerce online. Dashlane is also the highest rated productivity app on Google Play and iTunes. David Pogue of the NYT calls Dashlane life-changing great and Geoffrey Fowler of the WSJ gives us 4 of 4 stars. We have a stellar team of developers, designers, marketers and math nerds, and marquee investors who’ve had multi-billion dollar exits. Would you like to join?
+Dashlane is the leading, award-winning password manager and digital wallet, intrinsically designed to make identity and payment simple and secure on every website and every device.
+
+We're a rapidly growing, tech startup using the world's best security and privacy architecture to simplify the lives of more than 3 billion Internet users worldwide. Since our first product launch in 2013, our brilliant team of engineers work tirelessly on new coding challenges, use the latest up-to-date frameworks for native development across desktop and mobile, use cutting-edge web service architecture, and are at the forefront of building applications that make the Internet safer and easier for millions of our users.
+
+So far, our hard work has paid off! Dashlane was recently recognized by Google as one of the “Best of 2015” apps, Apple has listed both our iPhone and iPad apps among "Le Meilleur de 2015" on the french App Store, and we’ve been featured by prominent publications including BBC, Frenchweb, La Quotidienne, Entreprendre Magazine, Les Echos, and several other global publications.
 
 Roles
 -----
