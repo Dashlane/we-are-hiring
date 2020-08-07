@@ -7,7 +7,7 @@ Dashlane is a mobile, desktop and web app that gives you a shortcut for everythi
 
 Our team in Paris, New York, and Lisbon is united by our passion for improving the digital experience and the belief that with the right tools, we can help everyone realize the promise of the internet. Dashlane has empowered over 14 million users in 180 countries to dash across the internet without compromising on security.
 
-![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/11_onboarding_b.png)
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/booths1-min.jpg)
 
 Why You Should Live Life in the Dashlane
 -------------
@@ -39,6 +39,8 @@ In addition we use GitLab CI across our platform teams.
 [Read more about us in our blog](https://blog.dashlane.com/category/engineering/)
 
 [Would you like to join?](https://www.dashlane.com/about/careers)
+
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/11_onboarding_b.png)
 
 Office Locations
 ------------------
