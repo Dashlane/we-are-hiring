@@ -1,3 +1,4 @@
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/Dashlanelogo.jpg)
 Dashlane Jobs
 =============
 
@@ -7,7 +8,7 @@ Dashlane is a mobile, desktop and web app that gives you a shortcut for everythi
 
 Our team in Paris, New York, and Lisbon is united by our passion for improving the digital experience and the belief that with the right tools, we can help everyone realize the promise of the internet. Dashlane has empowered over 14 million users in 180 countries to dash across the internet without compromising on security.
 
-![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/booths1-min.jpg)
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/Living%20Offices%20-%20Dashlane%20(low%20res%20-%20for%20web)%20049.jpg)
 
 Why You Should Live Life in the Dashlane
 -------------
@@ -18,11 +19,11 @@ At Dashlane you will:
 - Take full responsibility for developing new features and making sure it meets users expectations
 - Be involved in product decisions and share ownership in the company’s success
 - Work with a world class team on both sides of the Atlantic (New York, Paris, & Lisbon)
-- 
-Wake up every morning, excited to come into work and have fun!
+- Wake up every morning, excited to come into work and have fun!
 
 Our Tech Stack
 --------------
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/DevworkingParis.jpg)
 - - - - - - - -
 objective-c / java / javascript / node.js / cocoa / windows / osx / android / ios / amazon-web-services / redis / mongodb / amazon-redshift / swift / sdk / apple-watch / kotlin / typescript
 - - - - -
@@ -41,7 +42,7 @@ In addition we use GitLab CI across our platform teams.
 
 [Would you like to join?](https://www.dashlane.com/about/careers)
 
-![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/11_onboarding_b.png)
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/booths1-min.jpg)
 
 Office Locations
 ------------------
@@ -51,6 +52,8 @@ Office Locations
 44 W 18th St 4th Floor New York 10011, USA
 
 Rua Garrett 12, 2nd floor, 1200-2014 Lisbon, PORTUGAL
+
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/5_couches.png)
 
 Company Benefits
 ------------------
