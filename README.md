@@ -12,12 +12,13 @@ Our team in Paris, New York, and Lisbon is united by our passion for improving t
 Why You Should Live Life in the Dashlane
 -------------
 At Dashlane you will:
-Have a lot of autonomy and be at the forefront of building a cutting edge platform that helps millions of people every day
-Push Code to production on your first day and not deal with big company bureaucracy
-Work on complex speed and scaling challenges as we expand to a global audience
-Take full responsibility for developing new features and making sure it meets users expectations
-Be involved in product decisions and share ownership in the company’s success
-Work with a world class team on both sides of the Atlantic (New York, Paris, & Lisbon)
+- Have a lot of autonomy and be at the forefront of building a cutting edge platform that helps millions of people every day
+- Push Code to production on your first day and not deal with big company bureaucracy
+- Work on complex speed and scaling challenges as we expand to a global audience
+- Take full responsibility for developing new features and making sure it meets users expectations
+- Be involved in product decisions and share ownership in the company’s success
+- Work with a world class team on both sides of the Atlantic (New York, Paris, & Lisbon)
+- 
 Wake up every morning, excited to come into work and have fun!
 
 Our Tech Stack
@@ -53,22 +54,24 @@ Rua Garrett 12, 2nd floor, 1200-2014 Lisbon, PORTUGAL
 
 Company Benefits
 ------------------
-Meal Tickets
+- Meal Tickets
 
-Travel Reimbursement
+- Travel Reimbursement
 
-Flexible hours & opportunity for partial work from home
+- Flexible hours & opportunity for partial work from home
 
-High-end hardware with multiple screens; PC or Mac as per your choice
+- High-end hardware with multiple screens; PC or Mac as per your choice
 
-Attendance to Tech conferences (AWS, BlackHat, etc.)
+- Attendance to Tech conferences (AWS, BlackHat, etc.)
 
-Great office locations and new offices with snacks and regular events
+- Great office locations and new offices with snacks and regular events
 
-Learning opportunities such as hackathons and a mentorship program
+- Learning opportunities such as hackathons and a mentorship program
 
-Stock options
+- Stock options
 
-Dashlane for Life codes for yourself and to give to your loved ones
+- Dashlane for Life codes for yourself and to give to your loved ones
 
-Generous parental leave policy
+- Generous parental leave policy
+
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/IMG_20200212_135831_2.jpeg)
