@@ -1,5 +1,6 @@
 ![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/Dashlanelogo.jpg)
 
+
 Dashlane Jobs
 =============
 
@@ -39,8 +40,9 @@ Backend: Our backend is built in Typescript and run with Node.js, on AWS infrast
 
 In addition we use GitLab CI across our platform teams.
 
-[Read more about us in our blog](https://blog.dashlane.com/category/engineering/)
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/dashlove.png)
 
+[Read more about us in our blog](https://blog.dashlane.com/category/engineering/)           
 [Would you like to join?](https://www.dashlane.com/about/careers)
 
 ![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/booths1-min.jpg)
@@ -56,7 +58,7 @@ Rua Garrett 12, 2nd floor, 1200-2014 Lisbon, PORTUGAL
 
 ![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/5_couches.png)
 
-Company Benefits
+Company Benefits 
 ------------------
 - Meal Tickets
 
