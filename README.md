@@ -7,6 +7,8 @@ Dashlane is a mobile, desktop and web app that gives you a shortcut for everythi
 
 Our team in Paris, New York, and Lisbon is united by our passion for improving the digital experience and the belief that with the right tools, we can help everyone realize the promise of the internet. Dashlane has empowered over 14 million users in 180 countries to dash across the internet without compromising on security.
 
+![](https://github.com/PauliinaMyllyntaus/we-are-hiring/blob/master/11_onboarding_b.png)
+
 Why You Should Live Life in the Dashlane
 -------------
 At Dashlane you will:
