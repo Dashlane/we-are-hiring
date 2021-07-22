@@ -1,4 +1,4 @@
-![](https://github.com/Dashlane/we-are-hiring/blob/master/images/logo.jpeg)
+![](/images/logo.jpeg)
 
 
 Dashlane Jobs
@@ -9,6 +9,8 @@ The internet has become integrated with nearly every part of our lives, from wor
 Our business plans help organizations protect against data breaches and misuse through features like advanced user management, the ability to track security improvements over time, and a simple interface that employees will enjoy using. Our personal plans offer the same level of encryption and ease, so everyone can autofill their passwords, payments, and personal info with just a click. The Dashlane app works across every major operating system and browser—so every user can enjoy a simpler, safer internet.
 
 Our team in Paris, New York, and Lisbon is united by our passion for improving the digital experience and the belief that with the right tools, they can help everyone simplify their online lives. Dashlane has empowered over 15 million users and 20,000 businesses in 180 countries to enjoy a faster, simpler, and more secure internet.
+
+[Our open positions](https://www.dashlane.com/about/careers) 
 
 ![](https://github.com/Dashlane/we-are-hiring/blob/master/images/team_working.png)
 
@@ -23,11 +25,12 @@ At Dashlane you will:
 - Work with a world class team on both sides of the Atlantic (New York, Paris, & Lisbon)
 
 
+
 Our Tech Stack
 --------------
 ![](https://github.com/Dashlane/we-are-hiring/blob/master/images/dev_working.jpeg)
 - - - - - - - -
-typescript / react / kotlin / javascript / node.js / switft / cocoa / osx / android / ios / amazon-web-services / redis / mongodb / amazon-redshift / sdk / apple-watch 
+Typescript / React / Kotlin / Javascript / Node.js / Switft / Android / iOS / AWS / Redis / Mongodb
 - - - - -
 
 
@@ -61,11 +64,15 @@ Rua Garrett 12, 2nd floor, 1200-2014 Lisbon, PORTUGAL
 
 Company Benefits 
 ------------------
+- Remote or hybrid work from France, Portugal and USA
+
+- Flexible hours
+
 - Meal Tickets
 
 - Travel Reimbursement
 
-- Flexible hours & opportunity for partial work from home
+- Life insurance and health insurance
 
 - High-end hardware with multiple screens; PC or Mac as per your choice
 
