@@ -1,4 +1,4 @@
-![](/images/logo.jpeg)
+![](images/logo.jpeg)
 
 
 Dashlane Jobs
@@ -12,7 +12,7 @@ Our team in Paris, New York, and Lisbon is united by our passion for improving t
 
 [Our open positions](https://www.dashlane.com/about/careers) 
 
-![](https://github.com/Dashlane/we-are-hiring/blob/master/images/team_working.png)
+![](images/team_working.jpeg)
 
 What are we looking for
 -------------
@@ -28,7 +28,7 @@ At Dashlane you will:
 
 Our Tech Stack
 --------------
-![](https://github.com/Dashlane/we-are-hiring/blob/master/images/dev_working.jpeg)
+![](images/dev_working.png)
 - - - - - - - -
 Typescript / React / Kotlin / Javascript / Node.js / Switft / Android / iOS / AWS / Redis / Mongodb
 - - - - -
@@ -44,12 +44,12 @@ Backend: Our backend is built in Typescript and run with Node.js, on AWS infrast
 
 In addition we use GitLab CI across our platform teams.
 
-![](https://github.com/Dashlane/we-are-hiring/blob/master/images/dashlove.png)
+![](images/dashlove.png)
 
 [Read more about us in our blog](https://blog.dashlane.com/category/engineering/)           
 [Would you like to join?](https://www.dashlane.com/about/careers)
 
-![](https://github.com/Dashlane/we-are-hiring/blob/master/images/team_chat.png)
+![](images/team_chat.png)
 
 Office Locations
 ------------------
@@ -60,7 +60,7 @@ Office Locations
 
 Rua Garrett 12, 2nd floor, 1200-2014 Lisbon, PORTUGAL
 
-![](https://github.com/Dashlane/we-are-hiring/blob/master/images/baby.png)
+![](images/baby.png)
 
 Company Benefits 
 ------------------
@@ -88,5 +88,4 @@ Company Benefits
 
 - Generous parental leave policy
 
-![](https://github.com/Dashlane/we-are-hiring/blob/master/images/first_day_package.jpeg)
-
+![](images/first_day_package.jpeg)
