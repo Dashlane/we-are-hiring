@@ -14,8 +14,9 @@ Our team in Paris, New York, and Lisbon is united by our passion for improving t
 
 ![](images/team_working.jpeg)
 
-What are we looking for
+Working at Dashlane
 -------------
+
 At Dashlane you will:
 - Have a lot of autonomy and be at the forefront of building a cutting edge platform that helps millions of people every day
 - Push code to production on your first week and not deal with big company bureaucracy
