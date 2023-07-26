@@ -20,7 +20,7 @@ Working at Dashlane
 At Dashlane you will:
 - Have a lot of autonomy and be at the forefront of building a cutting edge platform that helps millions of people every day
 - Push code to production on your first week and not deal with big company bureaucracy
-- Work on complex speed and scaling challenges as we expand to a global audience
+- Work on complex challenges as we expand to a global audience
 - Take full responsibility for developing new features and making sure it meets users expectations
 - Be involved in product decisions and share ownership in the company’s success
 - Work with a world class team on both sides of the Atlantic (New York, Paris, & Lisbon)
@@ -31,7 +31,7 @@ Our Tech Stack
 --------------
 ![](images/dev_working.png)
 - - - - - - - -
-Typescript / React / Kotlin / Javascript / Node.js / Switft / Android / iOS / AWS / Redis / Mongodb
+Typescript / React / Javascript / Node.js / Android / Kotlin /  iOS / Swift / AWS / Cloudflare
 - - - - -
 
 
@@ -39,7 +39,7 @@ Dashlane is dedicated to building high-quality user experiences on mobile and on
 
 Mobile: We stay up to date with the latest Apple iOS and Google Android trends and technologies. We build both applications natively using Swift for iOS and Kotlin for Android.
 
-Web: For our web applications, we are using Javascript and TypeScript with React for the frontend, Node.js for the backend.
+Web: For our web extensions, we are using TypeScript with React for the frontend.
 
 Backend: Our backend is built in Typescript and run with Node.js, on AWS infrastructure, using MySQL, S3 and Redis for our database.
 
@@ -47,8 +47,11 @@ In addition we use GitLab CI across our platform teams.
 
 ![](images/dashlove.png)
 
-[Read more about us in our blog](https://blog.dashlane.com/category/engineering/)           
+[Read more about us in our blog](https://blog.dashlane.com/category/engineering/)
+
 [Would you like to join?](https://www.dashlane.com/about/careers)
+
+[Discover about Life at Dashlane](https://lifeatdashlane.com/)
 
 ![](images/team_chat.png)
 
@@ -65,11 +68,9 @@ Rua Garrett 12, 2nd floor, 1200-2014 Lisbon, PORTUGAL
 
 Company Benefits 
 ------------------
-- Remote or hybrid work from France, Portugal and USA
+- Hybrid work from France, Portugal and USA
 
-- Flexible hours
-
-- Meal Tickets
+- Meal Cards
 
 - Travel Reimbursement
 
